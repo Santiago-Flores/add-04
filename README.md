@@ -1,5 +1,5 @@
 # add-04
-## Alumnos: FLORES, Santiago y IBACETA, Tadeo
+## Alumnos: FLORES, Santiago e IBACETA, Tadeo
 ## Curso: 5°1° AVC 
 ## Com: B
 ## Materia: Adquisicion de datos 
